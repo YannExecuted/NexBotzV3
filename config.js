@@ -42,11 +42,11 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.nomorown1 = '628812743180'
-global.namebot = 'NexBotz'
-global.nameown = 'NexEp'
+global.nomorbot = '62895622286921'
+global.nomorown = '6282117289550'
+global.nomorown1 = '6282117289550'
+global.namebot = 'AkenoBotz'
+global.nameown = 'YatzEp'
 
 
 /*============== STAFF ==============*/
@@ -54,7 +54,7 @@ global.owner = [
   ['6288221354110'],
   ['6283891677178'],
   ['18126338970'],
-  ['628812743180', 'NexEp', true]
+  ['6282117289550', 'YatzEp', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -104,16 +104,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'NexEp'
-global.wm3 = 'NexBotz | By NexEp'
+global.wm = 'By AkenoBotz' //Main Watermark
+global.wm2 = 'YatzEp'
+global.wm3 = 'AkenoBotz | By YatzEp'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'NexEp' 
-global.packname = 'NexEp'
+global.titlebot = `AkenoBotz | ʙʏ ${global.nameown}`
+global.author = 'YatzEp' 
+global.packname = 'AkenoBotz-MD'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Juli 11 2022'
+global.ultahowner = 'April 26 2007'
 
 
 /*============== LOGO ==============*/
@@ -127,14 +127,14 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Kenalin saya AkenoBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh YatzEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'NexEp'
-global.umurowner = '19'
-global.asalowner = 'Jawa Barat, Bekasi'
-global.nomorowner = 'wa.me/628812743180'
-global.pacarowner = 'Kaede Hitotsuba'
+global.nameowner = 'YatzEp'
+global.umurowner = '15'
+global.asalowner = 'Jawa Barat, Cirebon'
+global.nomorowner = 'wa.me/6282117289550'
+global.pacarowner = 'Akeno😋'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -388,8 +388,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `NexEp`
+global.stickpack = 'By AkenoBotz'
+global.stickauth = `YatzEp`
 
 global.multiplier = 38 // The higher, The harder levelup
 
